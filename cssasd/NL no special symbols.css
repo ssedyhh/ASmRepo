@@ -60,15 +60,15 @@
 	text-transform: capitalize;
 }
 .BgImageRepeat {
-	background-image: url(../../css/oransqr.gif);
+	background-image: url(../css/oransqr.gif);
 	background-repeat: repeat-x;
 }
 .BgAttachiment {
 	background-attachment: scroll;
-	background-image: url(../../css/oransqr.gif);
+	background-image: url(../css/oransqr.gif);
 }
 .BgPosition {
-	background-image: url(../../css/oransqr.gif);
+	background-image: url(../css/oransqr.gif);
 	background-position: center bottom;
 }
 .WrdPacing {
@@ -141,7 +141,7 @@
 }
 .ListImagePosition {
 	list-style-position: inside;
-	list-style-image: url(../../css/oransqr.gif);
+	list-style-image: url(../css/oransqr.gif);
 }
 .PositionTypeWH {
 	position: absolute;

@@ -29,7 +29,7 @@ if(empty($_SESSION['exp_user']) || @$_SESSION['exp_user']['expires'] < time()) {
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>PHP ajax login form using jquery</title>
-<script type="text/javascript" src="../../php/sample.js"></script>
+<script type="text/javascript" src="../php/sample.js"></script>
 <style type="text/css">
 body { background:#ccc; text-align: center; font:normal 11px/normal arial; color:#333; padding:50px; }
 #wrapper { width:400px; background:#666; border:solid 1px #fff; margin:0px auto; padding:15px;}
@@ -42,7 +42,7 @@ a:hover { color:#000; }
 		<h1>Bali Web Design Services</h1>
 		<p>You have logged in, this is will be your real index file,<br />click the logout link below to start another test.</p>
 		<p>
-		<a href="../../php/index.php?logoff=1">Logout</a> | 
+		<a href="../php/index.php?logoff=1">Logout</a> | 
 		<a href="http://www.chazzuka.com/blog/?p=212">Back to the article</a> | 
 		<a href="http://www.chazzuka.com">Bali Web Design Services</a>
 		</p>
