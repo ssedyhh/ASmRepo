@@ -1,6 +1,6 @@
 /*
 Error: Invalid CSS after "#fff": expected expression (e.g. 1px, bold), was ";"
-        on line 3 of C:\Users\test-ja-JP-蜿九ｈ\Documents\名称未設定サイト 2\sassasd\IT çèrgàì hòsé.sass
+        on line 3 of C:\Users\test-ja-JP-蜿九ｈ\Documents\名称未設定サイト 2\sassasd\ZHCN 银行 里热一下.sass
 
 1: /* Sass Document *\/
 2: #main {
@@ -12,7 +12,7 @@ Error: Invalid CSS after "#fff": expected expression (e.g. 1px, bold), was ";"
 8: .huge {
 
 Backtrace:
-C:\Users\test-ja-JP-蜿九ｈ\Documents\名称未設定サイト 2\sassasd\IT çèrgàì hòsé.sass:3
+C:\Users\test-ja-JP-蜿九ｈ\Documents\名称未設定サイト 2\sassasd\ZHCN 银行 里热一下.sass:3
 C:/Program Files/Adobe/Adobe Dreamweaver CC 2018/ruby/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/scss/parser.rb:1278:in `expected'
 C:/Program Files/Adobe/Adobe Dreamweaver CC 2018/ruby/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/script/lexer.rb:231:in `expected!'
 C:/Program Files/Adobe/Adobe Dreamweaver CC 2018/ruby/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/script/parser.rb:762:in `assert_done'
@@ -46,4 +46,4 @@ C:/Program Files/Adobe/Adobe Dreamweaver CC 2018/ruby/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Invalid CSS after \"#fff\": expected expression (e.g. 1px, bold), was \";\"\A         on line 3 of C:\Users\test-ja-JP-蜿九ｈ\Documents\名称未設定サイト 2\sassasd\IT çèrgàì hòsé.sass\A \A 1: /* Sass Document */\A 2: #main {\A 3:   color: #fff;\A 4:   background-color: #000; }\A 5:   #main p {\A 6:     width: 10em; }\A 7: \A 8: .huge {"; }
+  content: "Error: Invalid CSS after \"#fff\": expected expression (e.g. 1px, bold), was \";\"\A         on line 3 of C:\Users\test-ja-JP-蜿九ｈ\Documents\名称未設定サイト 2\sassasd\ZHCN 银行 里热一下.sass\A \A 1: /* Sass Document */\A 2: #main {\A 3:   color: #fff;\A 4:   background-color: #000; }\A 5:   #main p {\A 6:     width: 10em; }\A 7: \A 8: .huge {"; }
